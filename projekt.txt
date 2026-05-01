@@ -1,1 +1,2 @@
 Das ist meine Projektbeschreibung. 
+Zweite Zeile für git diff. 
